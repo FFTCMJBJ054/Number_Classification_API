@@ -44,7 +44,7 @@ This is a simple Node.js API that takes a number as input and returns interestin
 
 4. *Access the API*:
    - Open your browser or use a tool like curl or Postman.
-   - Navigate to http://localhost:3000/number/42 (replace 42 with any number).
+   - Navigate to http://localhost:3000/api/classify-number?number=142 (replace 142 with any number of your choice).
 
 
 
