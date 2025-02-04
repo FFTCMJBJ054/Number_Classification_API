@@ -8,7 +8,7 @@ const PORT = 3000;
 //to check for digit sum
 function digitSum(num){
     let sum = 0;
-    num.toString().split('').forEach(digit => {
+    Math.abs(num).toString().split('').forEach(digit => {
         sum+=parseInt(digit)
     });
     return sum;
