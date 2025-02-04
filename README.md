@@ -28,7 +28,7 @@ This is a simple Node.js API that takes a number as input and returns interestin
 ## Setup and Installation
 1. *Clone the repository*:
    bash
-   git clone https://github.com/your-username/number-properties-api.git
+   git clone https://github.com/FFTCMJBJ054/Number_Classification_API.git
    cd number-properties-api
    
 
