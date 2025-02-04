@@ -81,7 +81,7 @@ app.get('/api/classify-number', async (req, res) => {
             is_perfect: isPerfectNumber(num),
             properties: properties,
             digit_sum: digitSum(num),
-            funFact: funFact,
+            fun_fact: funFact,
         });
     } catch (error) {
         res.status(500).json({ error: 'Failed to fetch fun fact from Numbers API' });
